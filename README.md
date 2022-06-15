@@ -1,8 +1,8 @@
 # allpkgs
-Install all important pkg in one click
+#Install all important pkg in one click
 
 
-ls
-cd allpkgs
-ls
-bash install.sh
+#ls
+#cd allpkgs
+#ls
+#bash install.sh
