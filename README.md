@@ -1,5 +1,5 @@
 # allpkgs
-#Install all important pkg in one click
+*Install all important pkg in one click
 
 
 #ls
