@@ -3,6 +3,12 @@
 
 
 #ls
+
+
 #cd allpkgs
+
+
 #ls
+
+
 #bash install.sh
